@@ -44,4 +44,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
