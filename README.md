@@ -53,11 +53,13 @@
 ## Array
 |  |
 | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0875-koko-eating-bananas) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Binary Search
 |  |
 | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
