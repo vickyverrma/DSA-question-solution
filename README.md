@@ -59,6 +59,7 @@
 | [0152-maximum-product-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0152-maximum-product-subarray) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0875-koko-eating-bananas) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -97,11 +98,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -123,4 +126,12 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1025-divisor-game) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
