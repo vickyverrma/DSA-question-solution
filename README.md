@@ -85,6 +85,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0050-powx-n) |
 | [0633-sum-of-square-numbers](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0633-sum-of-square-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0240-search-a-2d-matrix-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
