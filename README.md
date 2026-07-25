@@ -87,6 +87,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0050-powx-n) |
 | [0633-sum-of-square-numbers](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0633-sum-of-square-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -117,4 +118,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0050-powx-n) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
