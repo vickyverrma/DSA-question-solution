@@ -61,6 +61,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0713-subarray-product-less-than-k) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
