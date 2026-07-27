@@ -62,6 +62,7 @@
 | [0189-rotate-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0713-subarray-product-less-than-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
@@ -92,6 +94,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0633-sum-of-square-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -111,10 +114,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +135,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
