@@ -54,6 +54,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0027-remove-element) |
@@ -119,6 +120,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0268-missing-number) |
 ## Dynamic Programming
