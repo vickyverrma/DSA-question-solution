@@ -60,6 +60,7 @@
 | [0027-remove-element](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0240-search-a-2d-matrix-ii) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sliding Window
 |  |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0268-missing-number) |
 ## Dynamic Programming
@@ -138,6 +141,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/3536-maximum-product-of-two-digits) |
@@ -145,4 +149,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
