@@ -153,4 +153,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
