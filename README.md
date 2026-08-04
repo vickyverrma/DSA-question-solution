@@ -58,6 +58,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0169-majority-element) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sliding Window
@@ -129,6 +131,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
