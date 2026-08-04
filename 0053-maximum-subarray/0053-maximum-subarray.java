@@ -1,14 +1,20 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-       int bestending = nums[0];
-       int ans = nums[0];
-       for(int i = 1; i<nums.length; i++)
-       {
-        int v1 = bestending + nums[i];
-        int v2 = nums[i];
-        bestending = Math.max(v1,v2);
-        ans = Math.max(ans,bestending);
-       } 
-       return ans;
+        int sum = 0;
+        int max = Integer.MIN_VALUE;
+        // kadane's algo if sum went below the zero initialize the sum again from the zero
+        for(int i = 0; i<nums.length; i++)
+        {
+            sum = sum+nums[i];
+            if(sum>max)
+            {
+                max = sum;
+            }
+            if(sum<0)
+            {
+                sum = 0;
+            }
+        }
+        return max;
     }
 }
