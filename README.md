@@ -166,4 +166,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/2149-rearrange-array-elements-by-sign) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
