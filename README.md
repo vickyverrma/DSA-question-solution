@@ -58,6 +58,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0136-single-number) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0633-sum-of-square-numbers) |
