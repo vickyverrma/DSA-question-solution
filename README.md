@@ -60,6 +60,7 @@
 | [0027-remove-element](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0136-single-number) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0219-contains-duplicate-ii) |
@@ -142,6 +144,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Recursion
 |  |
