@@ -181,4 +181,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
