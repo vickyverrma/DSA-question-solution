@@ -61,6 +61,7 @@
 | [0031-next-permutation](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0128-longest-consecutive-sequence) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Recursion
@@ -175,6 +177,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
