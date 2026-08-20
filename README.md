@@ -59,6 +59,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -102,6 +103,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0268-missing-number) |
@@ -144,6 +146,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Recursion
