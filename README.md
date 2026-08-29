@@ -130,6 +130,7 @@
 | [0283-move-zeroes](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0633-sum-of-square-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0058-length-of-last-word) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
 | ------- |
@@ -214,4 +216,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
