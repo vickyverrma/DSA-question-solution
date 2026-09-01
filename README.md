@@ -147,6 +147,7 @@
 | [0169-majority-element](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
@@ -174,6 +175,7 @@
 | [0075-sort-colors](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/3536-maximum-product-of-two-digits) |
@@ -200,6 +202,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0242-valid-anagram) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
