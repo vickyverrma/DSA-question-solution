@@ -1,29 +1,20 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
         Arrays.sort(nums);
-        HashMap<Integer,Integer>freq = new HashMap<>();
-        int count = 0;
-        int req = 0;
-        for(int i = 0; i<nums.length; i++)
+        int sum = nums[0];
+        int n = nums.length;
+        int temp = 0;
+        for(int i = 1; i<n; i++)
         {
-            int curr = nums[i];
-            freq.put(curr,freq.getOrDefault(curr,0)+1);
-            if(freq.get(curr)==2)
+            if(nums[i]==nums[i-1])
             {
-                count = curr;
+                temp = nums[i];
             }
+            sum = sum + nums[i];
         }
-        for(int i = 0; i<nums.length; i++)
-        {
-            if(freq.containsKey(i+1))
-            {
-                continue;
-            }
-            else{
-                req = i+1;
-            }
-        }
-        return new int[]{count,req};
-
+        int total = n * (n+1)/2;
+        int req =  Math.abs(sum-temp);
+        int reqf = total - req;
+        return new int[]{temp,reqf};
     }
 }
