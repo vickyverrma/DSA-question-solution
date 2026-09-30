@@ -68,6 +68,7 @@
 ## Array
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0119-pascals-triangle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0349-intersection-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
