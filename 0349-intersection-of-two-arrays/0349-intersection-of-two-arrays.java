@@ -5,7 +5,6 @@ class Solution {
 
         Arrays.sort(nums1);
         Arrays.sort(nums2);
-
         int low = 0;
         int high = 0;
 
