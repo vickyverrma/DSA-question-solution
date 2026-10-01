@@ -69,11 +69,13 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0493-reverse-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
