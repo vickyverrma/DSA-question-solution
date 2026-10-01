@@ -70,6 +70,7 @@
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0119-pascals-triangle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -90,4 +92,28 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0119-pascals-triangle-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
