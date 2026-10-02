@@ -68,6 +68,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -80,6 +81,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
