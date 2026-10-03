@@ -124,4 +124,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
