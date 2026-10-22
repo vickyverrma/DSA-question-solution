@@ -130,4 +130,12 @@
 |  |
 | ------- |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Math
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
