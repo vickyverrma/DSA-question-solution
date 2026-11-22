@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0035-search-insert-position) |
 | [0119-pascals-triangle-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0128-longest-consecutive-sequence) |
@@ -87,6 +88,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0493-reverse-pairs) |
