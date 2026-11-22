@@ -1,47 +1,58 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        // for first occurance
-        int fr = -1;
-        int fl = -1;
+        int fo = firstocr(nums,target);
+        if(fo == -1){
+            return new int[]{fo,-1};
+        }
+        int lo = lastocr(nums,target);
+        return new int[]{fo,lo};
+    }
+    static int firstocr(int [] nums, int target)
+    {
+        int fo = -1;
         int low = 0;
         int high = nums.length-1;
+        while(low<=high)
+        {
+            int mid = (low + high)/2;
+            if(nums[mid] == target)
+            {
+                fo = mid;
+                high = mid - 1;
+            }
+            else if(nums[mid]>target)
+            {
+                high = mid -1;
+            }
+            else{
+                low = mid + 1;
+            }
+            
+        }
+        return fo;
 
+    }
+    static int lastocr(int [] nums, int target)
+    {
+        int lo = -1;
+        int low = 0;
+        int high = nums.length-1;
         while(low<=high)
         {
-            int mid = low + (high - low)/2;
+            int mid = (low+high)/2;
             if(nums[mid]==target)
             {
-                fr = mid;
-                high = mid-1;
+                lo = mid;
+                low = mid +1;
             }
-            else if(nums[mid]<target)
+            else if(nums[mid]>target)
             {
-                low = mid+1;
+                high = mid -1;
             }
-            else 
-            {
-                high = mid-1;
+            else{
+                low = mid + 1;
             }
         }
-        low = 0;
-        high = nums.length-1;
-        while(low<=high)
-        {
-            int mid = low + (high-low)/2;
-            if(nums[mid]==target)
-            {
-                fl = mid;
-                low = mid+1;
-            }
-            else if(nums[mid]<target)
-            {
-                low = mid+1;
-            }
-            else
-            {
-                high = mid-1;
-            }
-        }
-        return new int []{fr,fl};
+        return lo;
     }
 }
